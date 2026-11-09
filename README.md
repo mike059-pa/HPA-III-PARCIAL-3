@@ -52,6 +52,10 @@ dotnet run --project Parte1_Figuras
 5  Triangulo            15.59         18.00
 ```
 
+En consola: 
+<img width="1467" height="677" alt="image" src="https://github.com/user-attachments/assets/d7059600-cbb1-47ee-85d8-0ed697a30047" />
+
+
 ## Parte 2 – Trabajar con JSON usando Newtonsoft.Json (15 pts)
 
 Se intercambian los datos de una persona (Nombre: "Cristell", Edad: 20, Carrera: "Ingenieria en Sistemas") en formato JSON.
@@ -69,6 +73,10 @@ dotnet run --project Parte2_Json
 Hello, World!
 {"Nombre":"Cristell","Edad":20,"Carrera":"Ingenieria en Sistemas"}
 ```
+
+En consola: 
+<img width="1442" height="306" alt="image" src="https://github.com/user-attachments/assets/b6554410-2ae8-4db6-a65b-9c2db538f127" />
+
 
 ## Parte 3 – Login con hash BCrypt (20 pts)
 
@@ -125,6 +133,28 @@ Usuarios de prueba (incluidos en el backup):
 | `cristell` | `Sistemas2026` | Cristell Rodriguez |
 
 También puedes crear usuarios nuevos con el botón **Crear cuenta**.
+
+Capturas de Pantalla 
+Usuarios de Prueba Usados 
+
+Michael Hunt: 
+<img width="362" height="357" alt="image" src="https://github.com/user-attachments/assets/5d7d40a2-5042-4329-80ce-406eb431060d" />
+
+<img width="632" height="447" alt="image" src="https://github.com/user-attachments/assets/0441948c-a1b6-4cba-8a8b-062c3f4d6d70" />
+
+
+Cristell Rodriguez:
+<img width="375" height="357" alt="image" src="https://github.com/user-attachments/assets/f0e6087c-bf08-4a02-a006-696b6dcadb99" />
+
+<img width="626" height="450" alt="image" src="https://github.com/user-attachments/assets/b4a9ba18-b9a6-4787-af17-119b7c4b5583" />
+
+Creacion de cuenta nueva 
+<img width="372" height="425" alt="image" src="https://github.com/user-attachments/assets/f24714de-abba-4dca-b4dd-2f2c461524f8" />
+
+<img width="376" height="421" alt="image" src="https://github.com/user-attachments/assets/ff199e7d-875c-42de-9aa0-e735070ba8f5" />
+
+<img width="621" height="456" alt="image" src="https://github.com/user-attachments/assets/89ea4259-fc92-4082-959e-a35e724d92e7" />
+
 
 Ejemplo de hash almacenado: `$2a$11$Azd9OJgIrgeP58.ipdnns.zlVMZRXZNmgbCJSFK0jbqsvvJEcp.Ku`
 (`$2a$` = versión del algoritmo, `11` = factor de costo, luego 22 caracteres de sal y 31 del hash).
