@@ -71,7 +71,7 @@ dotnet run --project Parte2_Json
 
 ```
 Hello, World!
-{"Nombre":"Cristell","Edad":20,"Carrera":"Ingenieria en Sistemas"}
+{"Nombre":"Michael","Edad":20,"Carrera":"Ingenieria en Sistemas"}
 ```
 
 En consola: 
