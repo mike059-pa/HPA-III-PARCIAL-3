@@ -17,7 +17,7 @@ public class Triangulo : Figura
         LadoC = ladoC;
     }
 
-    /// <summary>Área mediante la fórmula de Herón.</summary>
+    //>Área mediante la fórmula de Herón.
     public override double CalcularArea()
     {
         double s = CalcularPerimetro() / 2;
