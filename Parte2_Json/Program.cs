@@ -2,7 +2,7 @@
 // Importar
 using Newtonsoft.Json;
 
-//: Crear objeto con datos
+// Crear objeto con datos
 var persona = new
 {
     Nombre = "Michael ",
