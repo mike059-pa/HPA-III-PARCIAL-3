@@ -7,7 +7,7 @@ Console.WriteLine("Hello, World!");
 // Paso 3: Crear objeto con datos
 var persona = new
 {
-    Nombre = "Cristell",
+    Nombre = "Michael ",
     Edad = 20,
     Carrera = "Ingenieria en Sistemas"
 };
