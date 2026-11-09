@@ -1,10 +1,8 @@
-// Paso 1: Instalar -> dotnet add package Newtonsoft.Json
-// Paso 2: Importar
+
+// Importar
 using Newtonsoft.Json;
 
-Console.WriteLine("Hello, World!");
-
-// Paso 3: Crear objeto con datos
+//: Crear objeto con datos
 var persona = new
 {
     Nombre = "Michael ",
@@ -12,7 +10,7 @@ var persona = new
     Carrera = "Ingenieria en Sistemas"
 };
 
-// Paso 4: Convertir objeto a cadena JSON
+//  Convertir objeto a cadena JSON
 string json = JsonConvert.SerializeObject(persona);
 
 Console.WriteLine(json);
