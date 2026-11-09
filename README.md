@@ -140,18 +140,30 @@ Usuarios de Prueba Usados
 Michael Hunt: 
 <img width="362" height="357" alt="image" src="https://github.com/user-attachments/assets/5d7d40a2-5042-4329-80ce-406eb431060d" />
 
+
+
 <img width="632" height="447" alt="image" src="https://github.com/user-attachments/assets/0441948c-a1b6-4cba-8a8b-062c3f4d6d70" />
 
 
 Cristell Rodriguez:
 <img width="375" height="357" alt="image" src="https://github.com/user-attachments/assets/f0e6087c-bf08-4a02-a006-696b6dcadb99" />
 
+
+
 <img width="626" height="450" alt="image" src="https://github.com/user-attachments/assets/b4a9ba18-b9a6-4787-af17-119b7c4b5583" />
 
+
+
 Creacion de cuenta nueva 
+
+
 <img width="372" height="425" alt="image" src="https://github.com/user-attachments/assets/f24714de-abba-4dca-b4dd-2f2c461524f8" />
 
+
+
 <img width="376" height="421" alt="image" src="https://github.com/user-attachments/assets/ff199e7d-875c-42de-9aa0-e735070ba8f5" />
+
+
 
 <img width="621" height="456" alt="image" src="https://github.com/user-attachments/assets/89ea4259-fc92-4082-959e-a35e724d92e7" />
 
