@@ -138,6 +138,8 @@ Capturas de Pantalla
 Usuarios de Prueba Usados 
 
 Michael Hunt: 
+
+
 <img width="362" height="357" alt="image" src="https://github.com/user-attachments/assets/5d7d40a2-5042-4329-80ce-406eb431060d" />
 
 
