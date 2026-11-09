@@ -70,7 +70,6 @@ dotnet run --project Parte2_Json
 ```
 
 ```
-Hello, World!
 {"Nombre":"Michael","Edad":20,"Carrera":"Ingenieria en Sistemas"}
 ```
 
